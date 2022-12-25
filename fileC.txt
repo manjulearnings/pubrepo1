@@ -1,0 +1,2 @@
+this is fileC
+created initially in featureA branch
