@@ -1,2 +1,2 @@
 this is fileC
-created initially in featureA branch
+created initially in featureC branch
